@@ -18,7 +18,7 @@ class DownloadView(View):
         download_button = Button(
             label="Télécharger Bkz-Tools 2.1",
             style=discord.ButtonStyle.danger,  # Rouge
-            url="https://www.dropbox.com/scl/fi/csmrer9ok6dzqjy4qn882/Bkz-Tools-2.1.rar?rlkey=gdkmb1xxvcmde824f35l6owjh&st=qgve4yam&dl=1",
+            url="https://drive.google.com/uc?export=download&id=1Qlt7eaQU6yiDvFTrslPEoTmdwO04lOrH",
             emoji="💾"
         )
         
